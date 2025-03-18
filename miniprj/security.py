@@ -50,7 +50,8 @@ class Client:
         self.agepreference = int(input("Enter Age: ")) 
 
     
-    
+    def client_details(self):
+        pass
 
 
 
