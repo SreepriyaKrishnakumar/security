@@ -1,0 +1,24 @@
+git status
+
+git init
+
+git clone <repository url>               // for merge the repository to github
+
+U >> untracked
+A >> Added
+M >> Modified files after commit
+
+
+git add <file name>         // added to a staging area
+git add .                   // add all files into the repository
+                            // after adding to the staging area the file changed to A (Added)
+
+git commit -m "message"
+
+git branch -m <branch name>
+
+git remote add origin <url>
+
+git push -u origin <branch name>
+
+git log
